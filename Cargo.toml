@@ -12,7 +12,7 @@ readme = "README.md"
 [dependencies]
 itoa         = "0.3"
 numtoa       = "0.0"
-num_cpus     = "1.5"
+num_cpus     = "1"
 permutate    = "0.3"
 arrayvec     = "0.4"
 time         = "0.1"
